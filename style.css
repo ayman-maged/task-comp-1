@@ -1,0 +1,380 @@
+*{
+   margin: 0px;
+   padding: 0px;
+   box-sizing: border-box;
+}
+body{
+   width: 100%;
+}
+.navbar-right img{
+   position: relative;
+   right: 223px;
+}
+.navtexts{
+
+margin-left: 100px;
+margin-top: -45px;
+   }
+
+.navbar-left img{
+   width: 100px;    
+   }
+.back-ground img{
+   position: relative;
+   width: 100%;
+   height: 450px;
+   top: -85px;
+   }
+.nanbar{
+   padding: 0px 20px; 
+   justify-content: space-between;
+}
+.nanbar a{
+   text-decoration: none;
+   height: 100%;
+   padding: 20px;
+   width: fit-content; 
+   color: black;
+}
+.navbar-left{
+   margin-top: 40px;
+}
+.navbar-right img{
+   z-index: 1;
+   position: relative;
+   display: flex;
+   margin-left: 1250px;
+   margin-top: -30px;
+} 
+
+.navbar-right a{
+   z-index: 1;
+   position: absolute;
+   margin-left: 1050px;
+   margin-top: -50px;
+}
+
+.nava{
+
+   position: relative;
+}
+.head h1{
+   margin-top: -340px;
+   margin-left: 60px;
+   padding-bottom: 10px ;
+   font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.Deliver{
+   color: blueviolet;
+   font-size: 35px;
+}
+.para p{
+   margin-left: 70px;
+   font-size: 17.5px;
+}
+.triangle{
+   position: relative;
+   left: 650px;
+   bottom: 170px;
+   width: 420px;
+   height: 300px;  /* scroll */
+}
+.man{
+   position: absolute;
+   top: 135px;
+   right: 330px;
+   height: 200px;
+}
+.sky{
+   position: relative;
+   width: 200px;
+   height: 180px;
+   bottom: 110px;
+   left: 330px;
+}
+.wavy{
+   position: relative;
+   width: 75%;
+   height: 200px;
+   bottom: 250px;
+   left: -70px;
+}
+.line{
+   position: relative;
+   width: 850px;
+   height: 500px;
+   bottom: 250px;
+   left: 180px;
+}
+.grop140{
+   position: absolute;
+   top: 620px;
+   left: 110px;
+   height: 110px;
+}
+.head4{
+   position: absolute;
+   top: 740px;
+   left: 110px;
+   font-size: 19px;
+}
+.para1{
+   position: absolute;
+   top: 765px;
+   left: 60px;
+   font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+.span-para{
+   position: relative;
+   left: -25px;
+}
+.group152{
+   position: absolute;
+   top: 740px;
+   left: 472px;
+   height: 110px;
+}
+.head5{
+   position: absolute;
+   top: 855px;
+   left: 465px;
+   font-size: 19px;
+}
+.para2{
+   position: absolute;
+   top: 880px;
+   left: 350px;
+   font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+.span-para2{
+   position: relative;
+   left: 50px;
+}
+.group1020{
+   position: absolute;
+   top: 1035px;
+   left: 800px;
+   height: 110px;
+
+}
+.head6{
+   position: absolute;
+   top: 1160px;
+   left: 860px;
+   font-size: 19px;
+}
+.para3{
+   position: absolute;
+   top: 1190px;
+   left: 730px;
+   font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+.span-para3{
+   position: relative;
+   left: -20px;
+}
+.godzoka1{
+   position:absolute;
+   top: 1030px;
+   left: 50px;
+   height: 220px;
+   width: 290px;
+}
+.para52{
+   position: absolute;
+   top: 1100px;
+   left: 120px;
+   color: white;
+}
+.kudzoka2{
+   position: absolute;
+   top: 1130px;
+   left: 120px;
+   color: white;
+   font-size: 35px;
+   font-family:fantasy;
+}
+
+.group1006{
+   position:absolute;
+   top: 1460px;
+   left: 50px;
+   height: 200px;
+   width: 200px;
+
+}
+.group1007{
+   position:absolute;
+   top: 1350px;
+   left: 400px;
+   height: 350px;
+   width: 350px;
+
+}
+.group1008{
+   position:absolute;
+   top: 1480px;
+   left: 910px;
+   height: 200px;
+   width: 200px;
+}
+.row1{
+   position: absolute;
+   top: 1600px;
+   left: 350px;
+   font-size: 20px;
+   
+}
+.row2{
+   position: absolute;
+   top: 1600px;
+   left: 850px;
+   font-size: 20px;
+   
+}
+.head55{
+   position: absolute;
+   top: 1670px;
+   left: 485px;
+   
+}
+.para80{
+   position: absolute;
+   top: 1710px;
+   left: 485px;
+   font-family:Verdana, Geneva, Tahoma, sans-serif;
+   font-size: 15px;
+}
+.hand{
+   position: absolute;
+   left: 35px;
+}
+
+.image45{
+   position: absolute;
+   top: 1750px;
+   left: 630px;
+   width: 500px;
+   z-index: 1;
+   height: 378px;
+}  
+
+.hant{
+   background-image: url(images/Group\ 1131.png);
+   background-repeat: no-repeat;
+   background-position: top;
+   background-size: 1740px 900px;
+   height: 535px;
+   position: relative;
+   top: 290px;
+}
+.button1{
+   position: absolute;
+   top: 2000px;
+   left: 10px;
+   z-index: 1;
+   border-radius:10px ;
+   width: 110px;
+   height: 40px;
+}
+.app-store{
+   position: absolute;
+   font-size: 10px;
+   left: 30px;
+   top: 5px;
+}
+.apple{
+   position: absolute;
+   top: 2000px;
+   left: 10px;
+   z-index: 1;
+}
+
+.button2{
+   position: absolute;
+   top: 2000px;
+   left: 150px;
+   z-index: 1;
+   border-radius:10px ;
+   width: 110px;
+   height: 40px;
+}
+
+
+.play-store{
+   position: absolute;
+   font-size: 10px;
+   left: 35px;
+   top: 5px;
+
+}
+.play{
+   position: absolute;
+   top: 2003px;
+   left: 155px;
+   z-index: 1;
+
+}
+.insta{
+   position: absolute;
+   top: 2060px;
+   left: 15px;
+   width: 20px;
+   z-index: 1;
+
+}
+.wats{
+   position: absolute;
+   top: 2060px;
+   left: 45px;
+   width: 20px;
+   z-index: 1;
+
+}
+.face{
+   position: absolute;
+   top: 2060px;
+   left: 75px;
+   width: 12px;
+   z-index: 1;
+
+}
+.Home{
+   position: absolute;
+   top: 2090px;
+   left: 15px;
+   width: 12px;
+   z-index: 1;
+   text-decoration: none;
+   color: white;
+}
+.Srvices{
+   position: absolute;
+   top: 2090px;
+   left: 80px;
+   width: 12px;
+   z-index: 1;
+   text-decoration: none;
+   color: white;
+
+}
+.About-Us{
+   position: absolute;
+   top: 2090px;
+   left: 155px;
+   width: 80px;
+   z-index: 1;
+   text-decoration: none;
+   color: white;
+
+}
+.Help-Center{
+   position: absolute;
+   top: 2090px;
+   left: 250px;
+   width: 80px;
+   z-index: 1;
+   text-decoration: none;
+   color: white;
+
+}
